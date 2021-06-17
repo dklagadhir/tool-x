@@ -93,7 +93,6 @@ class logo:
     print (f'''
 \033[1;33m       [+] Tool Name :- \033[1;32mTool-X
 \033[1;33m       [+] Author :- \033[1;32mDK LAGADHIR
-\033[1;33m       [+] Latest Update :- \033[1;32m23/3/2019.\033[1;m
 \033[1;33m       [+] Tools :- \033[1;32mtotal {total} tools.\033[1;m
 
 \033[1;33m [+] \033[1;32mTool-x is automatic tool installer.
